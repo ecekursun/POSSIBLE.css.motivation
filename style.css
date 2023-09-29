@@ -1,0 +1,20 @@
+  body {
+    background-color: black;
+  }
+
+  h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+  }
+    
+  .motivation-img {
+    border: 5px solid white;
+  }
+
+  .poster {
+    color: white;
+    font-family: 'Alkatra', cursive;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center
+}
